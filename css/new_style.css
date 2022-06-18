@@ -7,3 +7,14 @@
 	line-height: 1;
 	text-decoration: none;
 }
+.footmail {
+
+	display: block;
+	font-family: "poppins-regular", sans-serif;
+	color: dimgray;
+	font-size: 1.5rem;
+	line-height: 1;
+	text-decoration: none;
+	position: relative;
+	top: 8px;
+}
