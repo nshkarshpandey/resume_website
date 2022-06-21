@@ -1506,21 +1506,9 @@ header .logo a {
 	margin-right: -30px;
 	margin-left: -30px;
 }
-.intro-info img {
-	height: 15rem;
-	width: 15rem;
-	border-radius: 30% ;
-	margin: .9rem 0 0 0;
-	float: left;
-	position: relative;
-	top: -30px;
-	left: -30px;
-}
 .intro-info .lead {
-	text-align: center;
+	text-align: left;
 	padding-left: 13rem;
-	position: relative;
-	left: -60px;
 }
 
 .about-content {
