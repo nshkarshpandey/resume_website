@@ -2542,8 +2542,8 @@ footer .footer-social li a {
  */
 #go-top {
 	position: fixed;
-	bottom: 0;
-	right: 0;
+	bottom: 50px;
+	right: 20px;
 	z-index: 600;
 	display: none;
 }
@@ -2559,6 +2559,7 @@ footer .footer-social li a {
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
+	border-radius: 50%;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
